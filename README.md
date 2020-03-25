@@ -3,7 +3,6 @@
 25th March - 31st March 
 
 25th March
-
     1. Learn about LCM and GCD
         1. <a href="https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/the-euclidean-algorithm"> The euclidean Algorithm</a>
         2. https://www.geeksforgeeks.org/common-divisors-of-n-numbers/
